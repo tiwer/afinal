@@ -15,6 +15,7 @@
  */
 package net.tsz.afinal;
 
+
 import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Bitmap;

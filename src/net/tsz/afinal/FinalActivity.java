@@ -15,8 +15,8 @@
  */
 package net.tsz.afinal;
 
-import java.lang.reflect.Field;
 
+import java.lang.reflect.Field;
 import net.tsz.afinal.annotation.view.EventListener;
 import net.tsz.afinal.annotation.view.Select;
 import net.tsz.afinal.annotation.view.ViewInject;
